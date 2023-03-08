@@ -1,9 +1,10 @@
 <?php
 	
 	//Datos de conexión a la DB
+	// el archivo .SQL está incluido en este repo
 	$servername = "localhost";
-	$username = "entreuno_kutxitril";
-	$password = "fbdDiG?jifn[";
-	$dbname = "entreuno_kutxitril";
+	$username = "XXXX"; 
+	$password = "XXXX";
+	$dbname = "XXXX";
 
 ?>
