@@ -10,8 +10,8 @@ La base de datos se puede crear con el archivo .SQL que se incluye en este respo
 
 ![administracion-ventas](https://user-images.githubusercontent.com/6242827/223698806-27ad6766-5017-4510-bef7-e0af18b015f6.png)
 
-Usuario: admin
-Contraseña: 1234abcd..
+- Usuario: admin
+- Contraseña: 1234abcd..
 
 ## Acceso Empleados
 
