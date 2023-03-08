@@ -19,10 +19,10 @@ Contraseña: 1234abcd..
 ![login-Furancheator](https://user-images.githubusercontent.com/6242827/223697661-7b36a7a0-d0a9-45c4-91da-435d29433db4.png)
 
 - Usuario: Camarero
-Contraseña: 1234abcd..
+- Contraseña: 1234abcd..
 
 - Usuario: Cocinero
-Contraseña: 1234abcd..
+- Contraseña: 1234abcd..
 
 ### Nota
 Todos los usuarios se crean con la contraseña : 1234abcd..
